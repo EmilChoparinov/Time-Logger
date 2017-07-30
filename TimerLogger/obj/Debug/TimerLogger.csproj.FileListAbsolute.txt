@@ -1,0 +1,8 @@
+c:\users\emilc\documents\visual studio 2017\Projects\TimerLogger\TimerLogger\bin\Debug\TimerLogger.exe.config
+c:\users\emilc\documents\visual studio 2017\Projects\TimerLogger\TimerLogger\bin\Debug\TimerLogger.exe
+c:\users\emilc\documents\visual studio 2017\Projects\TimerLogger\TimerLogger\bin\Debug\TimerLogger.pdb
+c:\users\emilc\documents\visual studio 2017\Projects\TimerLogger\TimerLogger\obj\Debug\TimerLogger.Properties.Resources.resources
+c:\users\emilc\documents\visual studio 2017\Projects\TimerLogger\TimerLogger\obj\Debug\TimerLogger.csproj.GenerateResource.Cache
+c:\users\emilc\documents\visual studio 2017\Projects\TimerLogger\TimerLogger\obj\Debug\TimerLogger.exe
+c:\users\emilc\documents\visual studio 2017\Projects\TimerLogger\TimerLogger\obj\Debug\TimerLogger.pdb
+c:\users\emilc\documents\visual studio 2017\Projects\TimerLogger\TimerLogger\obj\Debug\TimerLogger.TimeLogger.resources
